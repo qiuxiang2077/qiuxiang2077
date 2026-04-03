@@ -14,7 +14,9 @@
 
 ## 🙋 关于我
 
-你好！我是 **qiuxiang2077**。
+你好！我是 **丘同学 Eason Qiu**。
+
+来自 华侨大学 信息管理与信息系统专业
 
 一个充满**热情**的开发者，致力于探索技术的无限可能。
 
@@ -42,7 +44,7 @@
 
 ## 😊 About Me
 
-Hi! I'm **qiuxiang2077**.
+Hi! I'm **丘同学 Eason Qiu**.
 
 A passionate developer dedicated to exploring the endless possibilities of technology.
 
