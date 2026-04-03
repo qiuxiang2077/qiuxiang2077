@@ -22,17 +22,15 @@
 
 ## 💻 技能与兴趣
 
-- 🔥 **技术栈**: JavaScript • Python • React • Node.js
-- 🎨 **擅长领域**: Web 开发 • 全栈开发 • 开源贡献
+- 🔥 **技术栈**: Java • Python • MySQL
+- 🎨 **擅长领域**: Web 开发 • AI编程
 - 📚 **持续学习**: 不断探索新技术和最佳实践
 
 ---
 
 ## 🔗 联系我
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com)
-- 🐦 Twitter: [@your-handle](https://twitter.com)
+- 📧 Email: easonqiu2024@163.com
 
 ---
 
@@ -52,17 +50,15 @@ A passionate developer dedicated to exploring the endless possibilities of techn
 
 ## 💻 Skills & Interests
 
-- 🔥 **Tech Stack**: JavaScript • Python • React • Node.js
-- 🎨 **Expertise**: Web Development • Full-stack Development • Open Source
+- 🔥 **Tech Stack**: Java • Python • MySQ
+- 🎨 **Expertise**: Web Development • Vibecoding
 - 📚 **Always Learning**: Exploring new technologies and best practices
 
 ---
 
 ## 🔗 Connect with Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com)
-- 🐦 Twitter: [@your-handle](https://twitter.com)
+- 📧 Email: easonqiu2024@163.com
 
 ---
 
