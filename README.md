@@ -66,13 +66,6 @@
 
 - 📧 Email: easonqiu2024@163.com
 
-
----
-
-## 📊 GitHub 统计
-
-![qiuxiang2077's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuxiang2077&show_icons=true&theme=radical)
-
 ---
 
 ## 😊 About Me
@@ -130,12 +123,6 @@ Hi! I'm **Eason Qiu (丘同学)**.
 ## 🔗 Connect with Me
 
 - 📧 Email: easonqiu2024@163.com
-
----
-
-## 📊 GitHub Stats
-
-![qiuxiang2077's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuxiang2077&show_icons=true&theme=radical)
 
 ---
 
