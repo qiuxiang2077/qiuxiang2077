@@ -70,7 +70,7 @@
 
 ## 😊 About Me
 
-Hi! I'm **Eason Qiu (丘同学)**.
+Hi! I'm **Eason Qiu**.
 
 🎓 **Huaqiao University**, major in Information Management and Information Systems
 
