@@ -1,25 +1,22 @@
 <div align="center">
 
-# sakanajimi
+# easonqiu
 
-Personal tech account · Backup / Experiments / Open Source
+**HQU IMIS** · Full-stack Developer · AI Agent Enthusiast
 
 </div>
 
 ## About
 
-- **Automation & Ops**: Maintain automated server backup pipelines —
-  code and data synced to private GitHub repos, covering source,
-  configs and media assets.
-- **AI Agents**: Build and evaluate AI Agent applications, focusing on
-  long-running task orchestration, self-healing loops and multi-model
-  collaboration.
-- **Open Source**: Contribute PRs and docs to upstream projects; track
-  upstream code and keep local forks in sync.
+- **Automation & Ops**: Maintain automated server backup pipelines — code and data synced to private GitHub repos.
+- **AI Agents**: Build and evaluate AI Agent applications — long-running task orchestration, self-healing loops, multi-model collaboration.
+- **Full-stack**: Design, build and operate [qiuxiang.art](https://qiuxiang.art) — Vue 3 + Express + SQLite + Nginx, video transcoding, security hardening.
+- **Open Source**: Contribute PRs and docs to upstream projects; keep local forks in sync with upstream.
 
-## Repos
+## Projects
 
-- `uploads-backup` — offsite backup of server media assets (private)
+- `MyWebsite` — qiuxiang.art source (private)
+- `MC_Sever-Manager-for-macos` — game server manager for macOS (public)
 
 ---
 
