@@ -2,21 +2,26 @@
 
 # easonqiu
 
-**HQU IMIS** · Full-stack Developer · AI Agent Enthusiast
+HQU IMIS undergraduate — still learning
 
 </div>
 
 ## About
 
-- **Automation & Ops**: Maintain automated server backup pipelines — code and data synced to private GitHub repos.
-- **AI Agents**: Build and evaluate AI Agent applications — long-running task orchestration, self-healing loops, multi-model collaboration.
-- **Full-stack**: Design, build and operate [qiuxiang.art](https://qiuxiang.art) — Vue 3 + Express + SQLite + Nginx, video transcoding, security hardening.
-- **Open Source**: Contribute PRs and docs to upstream projects; keep local forks in sync with upstream.
+- **AI Agent**: experimenting with Dify & Hermes — RAG knowledge bases,
+  multi-agent email experiments, and a hands-on review of 8 agent tools.
+- **Full-stack**: maintain qiuxiang.art, a personal blog built with
+  Vue 3 + Express + SQLite + Nginx (29 articles).
+- **Ops**: run a small 1.7 GB VPS with cron automation — git backups,
+  knowledge-base sync, security audits. Learned fail2ban the hard way
+  after getting brute-forced.
+- **Open Source**: occasionally contribute PRs and docs to upstream
+  projects.
 
-## Projects
+## Repos
 
 - `MyWebsite` — qiuxiang.art source (private)
-- `MC_Sever-Manager-for-macos` — game server manager for macOS (public)
+- `MC_Sever-Manager-for-macos` — Minecraft server manager for macOS
 
 ---
 
